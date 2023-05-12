@@ -93,7 +93,7 @@ Start the server
   python manage.py runserver
 ```
 
-To add data such as questions and boards information to database, open *Admin Panel*, first go to *Questions* section, and Click on the *Import* button at top-right corner, select Format as *xlsx*, and upload file name *Question.xlsx* from *data* folder, and proceed. Repeat steps for Booster and Opposer tables.
+
 
 ## Postman Collection for Endpoints
 
